@@ -3,6 +3,17 @@ Voici le site Wordpress de "La vie des plantes".
 Le nom d'utilisateur : Myrtille
 Le mot de passe : Plantes/8
 
+Les screens de mon site internet :
+
+![a_propos](https://github.com/user-attachments/assets/68c962a3-593f-46fb-a196-cd1b87a93498)
+![a_propos2](https://github.com/user-attachments/assets/f8551786-d17f-4383-9e4d-5bae410676fc)
+![accueil-1](https://github.com/user-attachments/assets/401bd6b0-60a6-4bfa-ba93-14bfa987698e)
+![accueil-2](https://github.com/user-attachments/assets/82838809-a9b0-480d-8084-f9365d281512)
+![accueil-3](https://github.com/user-attachments/assets/8a75d0f9-ac7e-46ef-ae31-b76587d513c9)
+![boutique](https://github.com/user-attachments/assets/02264d7b-64dc-4862-94fe-6c8b461e2909)
+![contact1](https://github.com/user-attachments/assets/8a426f9e-8d5a-44e4-9e62-b1da3e77e817)
+![contact2](https://github.com/user-attachments/assets/59a8dd52-903f-4760-bf15-14989f8b3413)
+
 Toutes les illustrations sont libres de droit.
 Elles ont été téléchargées sur le site Pixabay.
 Ci-dessous les liens des différentes illustrations :
